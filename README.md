@@ -1,6 +1,6 @@
 # Moj prvy repozitar
 
-Ahoj svet, Petra!
+Ahoj svet, Kamarat!
 
 ## O mne
 Ja som Petra.
